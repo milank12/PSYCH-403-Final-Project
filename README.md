@@ -8,6 +8,6 @@ After a inputting their information (age, handedness, subject number), participa
 
 The program records the participants response for each trial, along with the block number, trial number, the presented nine value string, and the number of digits correctly remembered for each trial. These are recorded and saved in a csv file at the current working directory. The program also prints the mean of the accurate number of digits per trial over all the trials for ease of use for the experimenter. 
 
-This experiment judges the average digit span of the participant. 
+This experiment judges the average digit span of the participant. This is useful to assess working memory performance, which may be measured as a test of intelligence that is not influenced by other factors such as socioeconomic status, and can be particularly useful in understanding cognitive deficits and performance for those with brain injuries or mental disabilities.
 
 Code written by Milan Kalra
